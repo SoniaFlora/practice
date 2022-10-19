@@ -1,3 +1,7 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 h1 {
@@ -12,4 +16,35 @@ h1 {
   font-size: 50px;
   line-height: 100%;
   color: #1A2236;
+  left;: 16px
+  Top: 224px
+  width: : 288px
+  He: 126px
+  X constraint: Left
+  Y constraint: Top
+  Font family: Poppins
+  Font style: Regular
+  Font size: 14px
+  Line height: 21px
+  Line height: 100%
+  Align: Left
+  Vertical align: Top
+  Letter spacing: -1%
+  Fill: Solid
+  color: #1A2236;
+  X: 58px
+  Y: 402px
+  W: 203.68px
+  H: 26.47px
+  X constraint: Left
+  Y constraint: Top
+  Font family: Poppins
+  Font style: Medium
+  Font size: 16px
+  Line height: 24px
+  Line height: 100%
+  Align: Center
+  Vertical align: Top
+  Fill: Solid
+  color:#FFFFFF
 }
